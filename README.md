@@ -50,11 +50,15 @@
 <h2>🧰 &nbsp;Version Controll & Tools </h2>
 
 <p>
-	<img src="https://github.com/ffacun2/ffacun2/blob/main/src/img/tools/git.svg" alt"GIT" width="40" height="40" />
-	<img src="https://github.com/ffacun2/ffacun2/blob/main/src/img/tools/github-light.svg" alt"GitHub" width="40" height="40" />
-	<img src="https://github.com/ffacun2/ffacun2/blob/main/src/img/tools/slask.svg" alt"Slask" width="40" height="40" />
+	<img src="https://github.com/ffacun2/ffacun2/blob/main/src/img/tools/git.svg" alt="GIT" width="40" height="40" />
+	<img src="https://github.com/ffacun2/ffacun2/blob/main/src/img/tools/github-light.svg" alt="GitHub" width="40" height="40" />
+	<img src="https://github.com/ffacun2/ffacun2/blob/main/src/img/tools/slack.svg" alt="Slask" width="40" height="40" />
+	<img src="https://github.com/ffacun2/ffacun2/blob/main/src/img/ide/eclipse.svg" alt="Eclipse" width="40" height="40" />
+	<img src="https://github.com/ffacun2/ffacun2/blob/main/src/img/ide/vscode.svg" alt="Visual Studio Code" width="40" height="40" />
 </p>
-<!--!
+
+<!--
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
@@ -72,6 +76,7 @@
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)&nbsp;
 ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)&nbsp;
+
 -->
 </div>
 

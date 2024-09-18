@@ -4,8 +4,9 @@
 
 </div>
 
-
-### 🛠 &nbsp;Tech Stack
+<div>
+<h2>🛠 &nbsp;Tech Stack</h2>
+	
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
@@ -24,15 +25,21 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 -->
-### 🗃 &nbsp;Databases
+</div>
+
+<div>
+	
+<h2>🗃 &nbsp;Databases</h2>
 
 <!--![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)&nbsp;
 -->
+</div>
 
-### 🧰 &nbsp;Version Controll & Tools 
+<div>	
+<h2>🧰 &nbsp;Version Controll & Tools </h2>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -52,23 +59,27 @@
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)&nbsp;
 ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)&nbsp;
 -->
+</div>
 
 
-
-<h3>🤝🏻 &nbsp;Connect with Me</h3>
+<!-- REDES SOCIALES -->
 <div>
+<h2>🤝🏻 &nbsp;Connect with Me</h2>
 <p>
 <a target="_blank" href="https://www.linkedin.com/in/facundocriado">
- <img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" alt="facundocriado" height="30" width="40" />
+ 	<img align="center" src="https://github.com/ffacun2/ffacun2/blob/main/src/img/linked-in-icon.svg" alt="facundocriado" height="30" width="30" />
 </a>
 &emsp;
-<a target="_blank" href="mailto:ffacucriado@gmail.com"><img align="center" alt="Rahul Dhanola | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a></a>
+<a target="_blank" href="mailto:ffacucriado@gmail.com">
+	<img align="center" alt="gmail" width="35px" src="https://github.com/ffacun2/ffacun2/blob/main/src/img/gmail-icon.svg" />
+</a>
 &emsp;
-<a target="_blank" href="https://twitter.com/FacuuCriado"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andermendoza" height="30" width="40" /></a>
+<a target="_blank" href="https://twitter.com/FacuuCriado">
+	<img align="center" src="https://github.com/ffacun2/ffacun2/blob/main/src/img/twitter-icon.svg" alt="@FacuuCriado" height="30" width="30" />
+</a>
 &emsp;
 <a href="https://instagram.com/ffacucriado" target="blank">
-	 <img align="center" alt="TienHuynh-TN | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+	 <img align="center" alt="ffacucriado | Instagram" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a>
 </p>
 </div>

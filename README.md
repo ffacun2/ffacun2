@@ -7,7 +7,15 @@
 <div>
 <h2>🛠 &nbsp;Tech Stack</h2>
 	
+<p>
+	<img src="https://github.com/ffacun2/ffacun2/blob/main/src/img/language/java.svg" alt="Java" width="40" height="40"/>
+	<img src="https://github.com/ffacun2/ffacun2/blob/main/src/img/language/c.svg" alt="C" width="40" height="40"/>
+	<img src="https://github.com/ffacun2/ffacun2/blob/main/src/img/language/javascript.svg" alt="JavaScript" width="40" height="40"/>
+	<img src="https://github.com/ffacun2/ffacun2/blob/main/src/img/language/html.svg" alt="HTML5" width="40" height="40"/>
+	<img src="https://github.com/ffacun2/ffacun2/blob/main/src/img/language/css.svg" alt="CSS3" width="40" height="40"/>
+</p>
 
+<!--
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
@@ -15,7 +23,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-<!--![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)&nbsp;
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)&nbsp;
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
@@ -41,13 +49,19 @@
 <div>	
 <h2>🧰 &nbsp;Version Controll & Tools </h2>
 
+<p>
+	<img src="https://github.com/ffacun2/ffacun2/blob/main/src/img/tools/git.svg" alt"GIT" width="40" height="40" />
+	<img src="https://github.com/ffacun2/ffacun2/blob/main/src/img/tools/github-light.svg" alt"GitHub" width="40" height="40" />
+	<img src="https://github.com/ffacun2/ffacun2/blob/main/src/img/tools/slask.svg" alt"Slask" width="40" height="40" />
+</p>
+<!--!
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 
-<!--![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
+[Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)&nbsp;
@@ -67,19 +81,19 @@
 <h2>🤝🏻 &nbsp;Connect with Me</h2>
 <p>
 <a target="_blank" href="https://www.linkedin.com/in/facundocriado">
- 	<img align="center" src="https://github.com/ffacun2/ffacun2/blob/main/src/img/linked-in-icon.svg" alt="facundocriado" height="30" width="30" />
+ 	<img align="center" src="https://github.com/ffacun2/ffacun2/blob/main/src/img/social/linked-in-icon.svg" alt="facundocriado" height="30" width="30" />
 </a>
 &emsp;
 <a target="_blank" href="mailto:ffacucriado@gmail.com">
-	<img align="center" alt="gmail" width="35px" src="https://github.com/ffacun2/ffacun2/blob/main/src/img/gmail-icon.svg" />
+	<img align="center" alt="gmail" width="35px" src="https://github.com/ffacun2/ffacun2/blob/main/src/img/social/gmail-icon.svg" />
 </a>
 &emsp;
 <a target="_blank" href="https://twitter.com/FacuuCriado">
-	<img align="center" src="https://github.com/ffacun2/ffacun2/blob/main/src/img/twitter-icon.svg" alt="@FacuuCriado" height="30" width="30" />
+	<img align="center" src="https://github.com/ffacun2/ffacun2/blob/main/src/img/social/twitter-icon.svg" alt="@FacuuCriado" height="30" width="30" />
 </a>
 &emsp;
 <a href="https://instagram.com/ffacucriado" target="blank">
-	 <img align="center" alt="ffacucriado | Instagram" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+	 <img align="center" alt="ffacucriado | Instagram" width="30px" src="https://github.com/ffacun2/ffacun2/blob/main/src/img/social/instagram-icon.svg" />
 </a>
 </p>
 </div>

@@ -8,8 +8,7 @@
 <div>
 	<h2>👨🏻‍💻 &nbsp;About me</h2>
 	<p>
-		I am a software engineering student from Argentina, I am currently in my 4th year.
-		
+		 I am a Software Engineering student from Argentina, passionate about technology and creating innovative solutions. I enjoy discovering new tools and programming languages, constantly seeking out challenging projects to grow my skills. I consider myself an inquisitive and capable individual, always driven by a desire to learn and expand my knowledge.
 	</p>
 </div>
 

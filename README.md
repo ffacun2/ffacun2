@@ -1,6 +1,8 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=augustomtt&label=Profile%20views&color=0e75b6&style=flat" alt="ffacun2" /> </p>
+<p align="right"> 
+	<img src="https://komarev.com/ghpvc/?username=ffacun2&label=Profile%20views&color=0e75b6&style=flat" alt="ffacun2" /> 
+</p>
 <div align="center">
-	<h1> Hi There! Welcome to my Github profile! <img src="https://github.com/ffacun2/ffacun2/src/gif/hands.gif" width="40"/></h1> 
+	<h1> Hi There! Welcome to my Github profile! <img src="https://github.com/ffacun2/ffacun2/blob/main/src/gif/hands.gif" width="40"/></h1> 
 </div>
 
 <div>

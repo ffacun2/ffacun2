@@ -27,7 +27,7 @@
 <div>
 <h2>🗃 &nbsp;Databases</h2>
 	<p>
-		<img src="https://github.com/ffacun2/ffacun2/blob/main/src/img/databases/mysql.svg" alt"MySQL" width="40" height="40"/>
+		<img src="https://github.com/ffacun2/ffacun2/blob/main/src/img/database/mysql.svg" alt"MySQL" width="50"/>
 	</p>
 </div>
 

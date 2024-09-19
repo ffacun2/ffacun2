@@ -7,7 +7,10 @@
 
 <div>
 	<h2>👨🏻‍💻 &nbsp;About me</h2>
-	<p></p>
+	<p>
+		I am a software engineering student from Argentina, I am currently in my 4th year.
+		
+	</p>
 </div>
 
 
@@ -27,7 +30,7 @@
 <div>
 <h2>🗃 &nbsp;Databases</h2>
 	<p>
-		<img src="https://github.com/ffacun2/ffacun2/blob/main/src/img/database/mysql.svg" alt"MySQL" width="50"/>
+		<img src="https://github.com/ffacun2/ffacun2/blob/main/src/img/database/mysql.jpg" alt"MySQL" width="60"/>
 	</p>
 </div>
 

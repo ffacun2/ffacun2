@@ -1,14 +1,19 @@
 <p align="right"> 
 	<img src="https://komarev.com/ghpvc/?username=ffacun2&label=Profile%20views&color=0e75b6&style=flat" alt="ffacun2" /> 
 </p>
+
+---
+
 <div align="center">
 	<h1>
 	 Hi There! Welcome to my Github profile! <img src="https://github.com/ffacun2/ffacun2/blob/main/src/gif/hands.gif" width="40"/></h1> 
 </div>
 
+---
+
 <div align="left">
 	<h2>
-	<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
+	<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/>
 	&nbsp;About me</h2>
 	<div>
 	<img align="right" width="29%" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" >

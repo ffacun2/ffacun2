@@ -8,12 +8,11 @@
 	 Hi There! Welcome to my Github profile! <img src="https://github.com/ffacun2/ffacun2/blob/main/src/gif/hands.gif" width="40"/></h1> 
 </div>
 
----
-
 
 
  |I am a Software Engineering student from Argentina 🇦🇷, passionate about technology and creating innovative solutions. I enjoy discovering new tools and programming languages, constantly seeking out challenging projects to grow my skills. I consider myself an inquisitive and capable individual, always driven by a desire to learn and expand my knowledge.|![Imagen](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)|
  |--------|-----------|
+
 <br/>
 
 

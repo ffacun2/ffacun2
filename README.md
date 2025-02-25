@@ -2,7 +2,6 @@
 	<img src="https://komarev.com/ghpvc/?username=ffacun2&label=Profile%20views&color=0e75b6&style=flat" alt="ffacun2" /> 
 </p>
 
----
 
 <div align="center">
 	<h1>
@@ -10,18 +9,12 @@
 </div>
 
 
-<div align="left">
-	<!-- <h2>
-	<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/>
-	&nbsp;About me</h2> -->
-	<div>
-	<img align="right" width="29%" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" >
-	</div>
-	<p>
-		 I am a Software Engineering student from Argentina 🇦🇷, passionate about technology and creating innovative solutions. I enjoy discovering new tools and programming languages, constantly seeking out challenging projects to grow my skills. I consider myself an inquisitive and capable individual, always driven by a desire to learn and expand my knowledge.
-	</p>
-</div>
+
+ |I am a Software Engineering student from Argentina 🇦🇷, passionate about technology and creating innovative solutions. I enjoy discovering new tools and programming languages, constantly seeking out challenging projects to grow my skills. I consider myself an inquisitive and capable individual, always driven by a desire to learn and expand my knowledge.|![Imagen](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)|
+ |--------|-----------|
+
 <br/>
+
 
 ---
 

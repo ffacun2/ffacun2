@@ -1,6 +1,3 @@
-<p align="right"> 
-	<img src="https://komarev.com/ghpvc/?username=ffacun2&label=Profile%20views&color=0e75b6&style=flat" alt="ffacun2" /> 
-</p>
 
 
 <div align="center">
@@ -16,25 +13,60 @@
 <br/>
 
 
----
 
 <div>
-<h2 align="center">🛠 &nbsp;Language and Tools</h2>
-	<p align="center">
-		<img width="500px"  src="https://skillicons.dev/icons?i=c,java,spring,html,css,js,react,nodejs,py,mysql,postgres,mongo,tailwind,bootstrap,git,github,postman,vscode,eclipse,idea&perline=10&theme=dark"  />
-	</p>
+<h2 align="left">🛠 &nbsp;My Skills Include </h2>
+	<div>
+		<ul>
+			<li>
+				<h3>Frontend</h3>
+				<p>
+					<img width="500px"  height="50px" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark"  />
+				</p>
+			</li>
+			<li>
+				<h3>Backend</h3>
+				<p>
+					<img width="500px"  height="50px" src="https://skillicons.dev/icons?i=c,java,spring,nodejs,py&theme=dark"  />
+				</p>
+			</li>
+			<li>
+				<h3>DataBase</h3>
+				<p>
+					<img width="500px"  height="50px" src="https://skillicons.dev/icons?i=mysql,postgres,mongo&theme=dark"  />
+				</p>
+			</li>
+			<li>
+				<h3>Other Tools and technologies</h3>
+				<p>
+					<img width="500px"  height="50px" src="https://skillicons.dev/icons?i=git,github,postman,eclipse,idea&theme=dark"  />
+				</p>
+			</li>
+		</ul>
 </div>
 
----
+<br>
 
-<div align="center">
-	<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-	<a href="https://www.linkedin.com/in/facundocriado/" target="_blank">
+<div>
+	<h2>🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+	<p>
+		<a href="https://www.linkedin.com/in/facundocriado/" target="_blank">
 		<img width="40px"  src="https://skillicons.dev/icons?i=linkedin&theme=dark"  />
-	</a>
-	<a href="mailto:facuucriado@gmail.com" target="_blank">
-		<img width="40px"  src="https://skillicons.dev/icons?i=gmail&theme=dark"  />
-	</a>
+		</a>
+		<a href="mailto:facuucriado@gmail.com" target="_blank">
+			<img width="40px"  src="https://skillicons.dev/icons?i=gmail&theme=dark"  />
+		</a>
+	</p>
+	
+</div>
+
+<br>
+
+<h2>Github stats:</h2> 
+
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 20px; height: 100vh; width: 100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ffacun2&show_icons=true&theme=tokyonight&hide_border=true&locale=en" style="max-width: 100%;"/>
+ <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ffacun2&theme=material-palenight" style="max-width: 100%;"/> -->
 </div>
 
 <!--

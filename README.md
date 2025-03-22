@@ -39,7 +39,7 @@
 			<li>
 				<h3>Other Tools and technologies</h3>
 				<p>
-					<img width="500px"  height="50px" src="https://skillicons.dev/icons?i=git,github,postman,eclipse,idea&theme=dark"  />
+					<img width="500px"  height="50px" src="https://skillicons.dev/icons?i=git,github,postman,eclipse,idea,vscode&theme=dark"  />
 				</p>
 			</li>
 		</ul>

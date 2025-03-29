@@ -27,7 +27,7 @@
 			<li>
 				<h3>Backend</h3>
 				<p>
-					<img width="500px"  height="50px" src="https://skillicons.dev/icons?i=c,java,spring,nodejs,py&theme=dark"  />
+					<img width="500px"  height="50px" src="https://skillicons.dev/icons?i=c,java,spring,nodejs&theme=dark"  />
 				</p>
 			</li>
 			<li>

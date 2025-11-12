@@ -21,7 +21,7 @@
 			<li>
 				<h3>Frontend</h3>
 				<p>
-					<img width="500px"  height="50px" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark"  />
+					<img width="500px"  height="50px" src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,ts&theme=dark"  />
 				</p>
 			</li>
 			<li>

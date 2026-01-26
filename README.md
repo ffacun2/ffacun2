@@ -36,7 +36,7 @@ I'm a Software Engineering student from Argentina 🇦🇷, passionate about tec
 
 ### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark" />
 </p>
 
 ### Database & Tools

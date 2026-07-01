@@ -41,7 +41,7 @@ I'm a Software Engineering student from Argentina 🇦🇷, passionate about tec
 
 ### Database & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,git,github,postman,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,git,github,postman,vscode,docker&theme=dark" />
 </p>
 
 <br>
